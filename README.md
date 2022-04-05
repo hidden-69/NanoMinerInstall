@@ -1,4 +1,4 @@
-# NanoMinerInstall
+# NanoMinerService
 Install and configure NanoMiner as a service
 
 Run the script on a server or computer and the machine wil mine crypto on startup. I'm working on GPU detection, had some issues with that.
